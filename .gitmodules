@@ -1,0 +1,6 @@
+[submodule "PermittClientApp"]
+	path = PermittClientApp
+	url = git@github.com:permittDev2/PermittClientApp.git
+[submodule "PermittWebAPI"]
+	path = PermittWebAPI
+	url = git@github.com:permittDev2/PermittWebAPI.git
