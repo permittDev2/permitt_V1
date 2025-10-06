@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+.env
+.env.*
+
+# JetBrains IDE
+.idea/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+
+# Permitt Projekt
+PermittClientApp/
+PermittWebAPI/
+model/
+
+# Dokumentation
+ÄNDERUNGSDOKUMENTATION.md
+
