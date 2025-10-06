@@ -1,0 +1,13 @@
+diffusers==0.35.1
+fastapi==0.116.1
+matplotlib==3.10.6
+numpy==2.3.2
+pandas==2.3.2
+peft==0.17.1
+Pillow==11.3.0
+pydantic==2.11.7
+torch==2.8.0
+torchvision==0.23.0
+tqdm==4.67.1
+transformers==4.56.0
+uvicorn==0.35.0

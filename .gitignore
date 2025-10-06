@@ -32,11 +32,6 @@ Thumbs.db
 build/
 dist/
 
-# Permitt Projekt
-PermittClientApp/
-PermittWebAPI/
-model/
-
 # Dokumentation
 ÄNDERUNGSDOKUMENTATION.md
 
